@@ -2,7 +2,8 @@
 /* header_top */
 /**************/
 body {
-  margin: 0 120px;
+  width: 1200px;
+  margin: 0 auto;
 }
 
 .header,
@@ -663,7 +664,9 @@ hr {
 /**************/
 /*  footer_2  */
 /**************/
-
+.footer_2_1{
+  margin-top: 30px;
+}
 .footer_2_1 .footer_2_1_content {
   display: flex;
   align-items: center;
